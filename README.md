@@ -17,7 +17,7 @@
 I’m a student passionate about...
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3200&pause=900&color=00BFFF&width=450&lines=building+projects+from+scratch;optimizing+programming+performance;developing+reliable+embedded+systems" alt="Typing SVG" style="vertical-align: text-bottom;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3200&pause=900&color=00BFFF&width=450&lines=building+systems+from+scratch;optimizing+programming+language+performance;developing+reliable+embedded+systems" alt="Typing SVG" style="vertical-align: text-bottom;" />
 </div>
 
 
