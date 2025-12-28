@@ -41,7 +41,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
 </p>
 
-**reach me**
+**contacts**
 
 [linkedin](https://www.linkedin.com/in/ryan-h-zhou/) · [email](mailto:ryanzhou147@gmail.com)
 </div>
