@@ -11,7 +11,8 @@
             ###                                                                           
 ```
 </div>
-
+<div align="center">
+  
 **languages**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="45" height="45"/>
@@ -43,3 +44,4 @@
 **reach me**
 
 [linkedin](https://www.linkedin.com/in/ryan-h-zhou/) · [email](mailto:ryanzhou147@gmail.com)
+</div>
