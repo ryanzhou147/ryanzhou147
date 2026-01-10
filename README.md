@@ -43,5 +43,5 @@
 
 **contacts**
 
-[linkedin](https://www.linkedin.com/in/ryan-h-zhou/) · [email](mailto:ryan@rzhou.me)
+[website](https://rzhou.me/) · [linkedin](https://www.linkedin.com/in/ryan-h-zhou/) · [email](mailto:ryan@rzhou.me)
 </div>
